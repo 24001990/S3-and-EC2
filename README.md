@@ -1,4 +1,4 @@
-<img width="1535" height="959" alt="Screenshot 2026-09-04 214337" src="https://github.com/user-attachments/assets/d3025051-61ec-418b-8044-fc914444acd7" /># Experiment No. 2 — Cloud Storage Creation (S3) and Launching an EC2 Instance in AWS
+# Experiment No. 2 — Cloud Storage Creation (S3) and Launching an EC2 Instance in AWS
 
 ## Aim
 To create an Amazon S3 bucket for cloud storage and launch a virtual machine using Amazon EC2 in the AWS Management Console.
